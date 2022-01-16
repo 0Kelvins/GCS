@@ -1,5 +1,6 @@
 # GCS
-Genshin Impact channel switcher 原神B服/官服渠道切换脚本
+Genshin Impact PC client channel switcher
+原神PC客户端B服/官服渠道切换脚本
 
 ## 使用说明
 1. 限Windows环境

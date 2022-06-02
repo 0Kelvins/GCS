@@ -1,4 +1,6 @@
 # GCS
+**(由于启动器升级，并且本人暂时不玩官服了，故脚本已过时）**
+
 Genshin Impact PC client channel switcher
 原神PC客户端B服/官服渠道切换脚本
 
